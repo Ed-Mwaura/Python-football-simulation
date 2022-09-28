@@ -34,3 +34,5 @@ for i in range(len(teams_with_strengths)):
                         print(team + " " + str(randint(0, 9)) + " vs " + str(randint(0, 9)) + " " + team_b)
 
 # TODO: generate randomness depending on strength of teams
+
+#What do you base on?
